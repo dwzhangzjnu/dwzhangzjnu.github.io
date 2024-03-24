@@ -1,0 +1,53 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1711213097050') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-home:before {
+  content: "\e60e";
+}
+
+.icon-github:before {
+  content: "\e6a4";
+}
+
+.icon-home1:before {
+  content: "\e64e";
+}
+
+.icon-gscholar:before {
+  content: "\e601";
+}
+
+.icon-Googlescholar:before {
+  content: "\e735";
+}
+
+.icon-github1:before {
+  content: "\ea0b";
+}
+
+.icon-youjian_email_bg:before {
+  content: "\e636";
+}
+
+.icon-Emailus:before {
+  content: "\e635";
+}
+
+.icon-home2:before {
+  content: "\e67c";
+}
+
+.icon-email:before {
+  content: "\e6f6";
+}
+
